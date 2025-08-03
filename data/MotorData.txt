@@ -1,0 +1,6 @@
+MotorFuerza POEIRJWLKO99 2022 Madelin_Cienfuegos 0 800
+MotorAlta LAKSDJIO9099 2021-10-09 Raydel_Peralta 5 3500 43.2
+MotorAlta IQWEIPIRUUIU 2020-02-30 Josiel_Salas_Ramos 1 5000 22.3
+MotorFuerza IRUEIROTIEO9 2010-12-12 Alejandro_Valdes_Villareal 0 900
+MotorTrabajo SKDJEIQUEOWU 2019-10-12 Madelin_Haros 1 1
+MotorTrabajo OIEUQOEURIWE 2018-10-23 Luis_Angel 2 0
